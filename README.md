@@ -14,66 +14,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Farzad 👋  
-### Junior Data Analyst | IT Operations & Cybersecurity Background | SQL • Python • Power BI
+# Hi, I'm Farzad 👋
 
-## 🧩 About Me
-I'm transitioning from IT operations, networking, and cybersecurity into data analytics.  
-My focus is on SQL, Python, Power BI, and building clean, reproducible analysis workflows.  
-Currently developing portfolio projects that combine analytics with my technical background.
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20Systems-blue?style=for-the-badge)
+![Trilingual](https://img.shields.io/badge/Languages-English%20|%20French%20|%20Persian-green?style=for-the-badge)
 
----
-
-## 🛠 Tech Stack
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-### IT & Cybersecurity Background
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?logo=cisco&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?logo=security&logoColor=white)
+### 🚀 Summary
+Computer Engineer and Technical Systems Analyst transitioning into Advanced Data Analytics. I specialize in bridging the gap between complex IT infrastructure and data-driven insights.
 
 ---
 
-## 📊 Portfolio Projects
-
-### 1. Sales Performance Dashboard (Power BI)
-**Skills:** DAX, Data Modeling, Visualization  
-**Description:** Built an interactive dashboard analyzing sales trends, regional performance, and product profitability.  
-**Repo:** _Coming soon_
-
-### 2. Customer Churn Prediction (Python)
-**Skills:** Pandas, Scikit‑Learn, Feature Engineering  
-**Description:** Developed a classification model to predict churn and identify key drivers.  
-**Repo:** _Coming soon_
-
-### 3. SQL Data Cleaning & Transformation Project
-**Skills:** Joins, CTEs, Window Functions  
-**Description:** Cleaned and transformed a raw dataset into an analytics‑ready format.  
-**Repo:** _Coming soon_
+### 💻 Technical Toolbox
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-## 🎓 Certifications
-- Google IT Support  
-- CompTIA Security+  
-- ISC2 Certified in Cybersecurity  
-- Microsoft Azure AI‑900  
-- IBM Data Analyst Professional Certificate  
-- NPower Junior Data Analyst Program  
+### 🎓 Education & Certifications
+*   **Junior Data Analyst (JDA)** | NPower Canada (Expected May 2026)
+*   **B.Sc. Computer Engineering** | University of Calgary
+*   **Cybersecurity Bootcamp** | University of Toronto
+*   **CompTIA Security+** ![Security+](https://img.shields.io/badge/Cert-Security%2B-orange)
+*   **Microsoft Azure AI-900** ![AI-900](https://img.shields.io/badge/Cert-AI--900-blue)
+*   **Google IT Support Professional** ![Google IT](https://img.shields.io/badge/Cert-Google--IT-blue)
 
 ---
 
-## 📬 Contact
-- LinkedIn: _your link here_  
-- Email: _your email here_  
+### 🏎️ Upcoming Projects: F1/F2 Analytics 
+*Current focus in secondary workspace:*
 
+1.  **The "Midfield King" Metric:** A predictive model using **Linear Regression** to identify drivers who consistently overperform relative to their car's qualifying potential.
+2.  **Grid-to-Podium Probability:** Using historical Ergast API data to calculate the mathematical likelihood of a podium finish based on starting position and track-specific degradation factors.
+
+---
+
+### 📂 Featured Professional Projects
+*   **Digital Infrastructure Security:** Architected secure web application environments using Azure and Docker containers, implementing robust security protocols.
+*   **Technical Systems Optimization:** Managed enterprise-level network administration and system migrations, reducing downtime through proactive automation.
+*   **Operational Data Insights:** Developed automated reporting tools using SQL and Power BI to transform raw operational logs into actionable BI dashboards.
+
+---
+
+### 📊 GitHub Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="Farzad's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<!-- ### 📫 Let's Connect
+[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio Website](https://YOURUSERNAME.github.io)
+-->
