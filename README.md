@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**Farzad-Morshedi/Farzad-Morshedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Farzad 👋
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Data%20Analysis-red?style=for-the-badge)
@@ -25,45 +9,53 @@ Trilingual Computer Engineer and **Cybersecurity Analyst** & **Data Analyst**. I
 
 ---
 
-### 💻 Technical Toolbox
+### 💻 Technical Tech Stack
 
-#### **Cybersecurity & Infrastructure**
-![Kali](https://img.shields.io/badge/Kali-262626?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-#### **Data Analysis & BI**
+#### 🌐 Programming & Query Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+#### 🛡️ Cybersecurity & Infrastructure
+![Kali](https://img.shields.io/badge/Kali-262626?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🛠️ Development & Automation Tools
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ### 🏎️ Upcoming Projects: F1/F2 Analytics 
 *Applying statistical models and predictive analytics to race performance data:*
 
-1.  **The "Midfield King" Metric:** A predictive model using **Linear Regression** to identify drivers who consistently overperform relative to car potential.
-2.  **Grid-to-Podium Probability:** Analyzing historical Ergast API data to model mathematical likelihoods of race success based on track degradation.
+* **The "Midfield King" Metric:** A predictive model using **Linear Regression** to identify drivers who consistently overperform relative to car potential.
+* **Grid-to-Podium Probability:** Analyzing historical Ergast API data to model mathematical likelihoods of race success based on track degradation.
 
 ---
 
 ### 📂 Featured Professional Projects
-*   **Digital Product Infrastructure:** Architected secure web application environments using **Azure** and **Docker** containerization, implementing robust security protocols.
-*   **Technical Systems Optimization:** Managed network administration and system migrations for multi-sector organizations, utilizing proactive troubleshooting to reduce downtime.
-*   **Operational Data Insights:** Developed automated reporting tools and interactive dashboards using **SQL** and **Power BI** to transform raw logs into actionable BI.
+* **Digital Product Infrastructure:** Architected secure web application environments using **Azure** and **Docker** containerization, implementing robust security protocols.
+* **Technical Systems Optimization:** Managed network administration and system migrations for multi-sector organizations, utilizing proactive troubleshooting to reduce downtime.
+* **Operational Data Insights:** Developed automated reporting tools and interactive dashboards using **SQL** and **Power BI** to transform raw logs into actionable BI.
 
 ---
 
 ### 🎓 Education & Certifications
-*   **Junior Data Analyst (JDA)** | NPower Canada (Expected May 2026)
-*   **B.Sc. Computer Engineering** | University of Calgary
-*   **Cybersecurity Bootcamp** | University of Toronto
-*   **Certifications:** CompTIA Security+, Microsoft Azure AI-900, Google IT Support.
+* **Junior Data Analyst (JDA)** | NPower Canada (Expected May 2026)
+* **B.Sc. Computer Engineering** | University of Calgary
+* **Cybersecurity Bootcamp** | University of Toronto
+* **Certifications:** CompTIA Security+, Microsoft Azure AI-900, Google IT Support Professional.
 
 ---
 
@@ -73,4 +65,8 @@ Trilingual Computer Engineer and **Cybersecurity Analyst** & **Data Analyst**. I
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farzad-Morshedi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+---
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/farzad-morshedi/) | [Professional Portfolio](https://Farzad-Morshedi.github.io)
 ---
