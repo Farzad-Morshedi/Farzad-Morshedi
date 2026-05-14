@@ -39,15 +39,15 @@ Trilingual Computer Engineer and **Cybersecurity Analyst** & **Data Analyst**. I
 ### 🏎️ Upcoming Projects: F1/F2 Analytics 
 *Applying statistical models and predictive analytics to race performance data:*
 
-* **The "Midfield King" Metric:** A predictive model using **Linear Regression** to identify drivers who consistently overperform relative to car potential.
+* **The "Midfield King" Metric:** A predictive model using Linear Regression to identify drivers who consistently overperform relative to car potential.
 * **Grid-to-Podium Probability:** Analyzing historical Ergast API data to model mathematical likelihoods of race success based on track degradation.
 
 ---
 
-### 📂 Featured Professional Projects
-* **Digital Product Infrastructure:** Architected secure web application environments using **Azure** and **Docker** containerization, implementing robust security protocols.
+### 📂 Past Professional Projects
+* **Digital Product Infrastructure:** Architected secure web application environments using Azure and Docker containerization, implementing robust security protocols.
 * **Technical Systems Optimization:** Managed network administration and system migrations for multi-sector organizations, utilizing proactive troubleshooting to reduce downtime.
-* **Operational Data Insights:** Developed automated reporting tools and interactive dashboards using **SQL** and **Power BI** to transform raw logs into actionable BI.
+* **Operational Data Insights:** Developed automated reporting tools and interactive dashboards using SQL and Power BI to transform raw logs into actionable BI.
 
 ---
 
@@ -55,7 +55,7 @@ Trilingual Computer Engineer and **Cybersecurity Analyst** & **Data Analyst**. I
 * **Junior Data Analyst (JDA)** | NPower Canada (Expected May 2026)
 * **B.Sc. Computer Engineering** | University of Calgary
 * **Cybersecurity Bootcamp** | University of Toronto
-* **Certifications:** CompTIA Security+, Microsoft Azure AI-900, Google IT Support Professional.
+* **Certifications:** CompTIA Security+, Microsoft Azure AI-900, Google IT Support Professional
 
 ---
 
